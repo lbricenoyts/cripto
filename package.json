@@ -14,12 +14,17 @@
     "url": "git+https://github.com/lbricenoyts/cripto.git"
   },
   "author": "Luis Delfin Briceño Gordy",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/lbricenoyts/cripto/issues"
   },
   "homepage": "https://github.com/lbricenoyts/cripto#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
-  }
+  },
+  "dependencies": {
+    "semver": "^7.3.2"
+  },
+  "devDependencies": {},
+  "keywords": []
 }
