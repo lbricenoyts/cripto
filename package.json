@@ -1,0 +1,22 @@
+{
+  "name": "@ldslayer/cripto",
+  "version": "0.1.0",
+  "description": "Pruebas de Encriptado",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbricenoyts/cripto.git"
+  },
+  "author": "Luis Delfin Briceño Gordy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lbricenoyts/cripto/issues"
+  },
+  "homepage": "https://github.com/lbricenoyts/cripto#readme"
+}
