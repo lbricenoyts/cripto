@@ -6,7 +6,7 @@ para utilizar el módulo de manera regular.
 > Se debe instalar como un módulo cualquiera, especificar la ruta: <ruta-completa> 
 
 ```bash
-    npm install https://github.com/lbricenoyts/cripto/archive/v0.1.0.tar.gz
+    npm install https://github.com/lbricenoyts/cripto/archive/v0.2.2.tar.gz
 ```
 
 > Probamos con un testo de prueba
