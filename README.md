@@ -6,12 +6,12 @@ para utilizar el módulo de manera regular.
 > Se debe instalar como un módulo cualquiera, especificar la ruta: <ruta-completa> 
 
 ```bash
-    npm install https://github.com/lbricenoyts/cripto
+    npm install https://github.com/lbricenoyts/cripto/archive/v0.1.0.tar.gz
 ```
 
 > Probamos con un testo de prueba
 ```javascript
-    const { cripto } = require('./node_modules/@lbricenoyts/cripto')
+    const { cripto } = require('@lbricenoyts/cripto')
 
     // Encriptado de texto 
     let encriptado = cripto.toCode("Texto de Prueba")
@@ -37,7 +37,7 @@ index.js
 ```javascript
     'use strict'
     const fs = require('fs')
-    const { cripto } = require('./node_modules/@lbricenoyts/cripto')
+    const { cripto } = require('@lbricenoyts/cripto')
 
     // Cargamos el Archivo con formato json
     const archivo = require('./archivos/objeto1.json')
