@@ -1,5 +1,5 @@
 {
-  "name": "@ldslayer/cripto",
+  "name": "@lbricenoyts/cripto",
   "version": "0.1.0",
   "description": "Pruebas de Encriptado",
   "main": "index.js",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/lbricenoyts/cripto/issues"
   },
-  "homepage": "https://github.com/lbricenoyts/cripto#readme"
+  "homepage": "https://github.com/lbricenoyts/cripto#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }

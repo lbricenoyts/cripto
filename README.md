@@ -2,8 +2,11 @@
 Pruebas de Criptografía
 
 para utilizar el módulo de manera regular.
+
+> Se debe instalar como un módulo cualquiera, especificar la ruta: <ruta-completa> 
+
 ```bash
-    npm install cripto
+    npm install <ruta-completa>
 ```
 
 > Probamos con un testo de prueba
