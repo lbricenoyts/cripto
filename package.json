@@ -1,6 +1,6 @@
 {
   "name": "@lbricenoyts/cripto",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Pruebas de Encriptado",
   "main": "index.js",
   "directories": {
