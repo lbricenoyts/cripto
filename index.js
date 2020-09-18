@@ -6,4 +6,4 @@
 
 'use strict';
 
-module.exports = require('./lib/cripto');
+module.exports = require('./lib/cripto.min.js');
