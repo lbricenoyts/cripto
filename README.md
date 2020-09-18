@@ -9,7 +9,7 @@ para utilizar el módulo de manera regular.
     npm install https://github.com/lbricenoyts/cripto/archive/v0.2.2.tar.gz
 ```
 
-> Probamos con un texto de prueba
+> Probamos con un testo de prueba
 ```javascript
     const { cripto } = require('@lbricenoyts/cripto')
 
