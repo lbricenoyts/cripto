@@ -1,5 +1,5 @@
 {
-  "name": "@lbricenoyts/cripto",
+  "name": "cripto",
   "version": "0.2.5",
   "description": "Pruebas de Encriptado",
   "main": "index.js",
