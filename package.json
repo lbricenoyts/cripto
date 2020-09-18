@@ -1,6 +1,6 @@
 {
   "name": "cripto",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Pruebas de Encriptado",
   "main": "index.js",
   "directories": {
