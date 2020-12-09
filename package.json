@@ -1,6 +1,6 @@
 {
   "name": "cripto",
-  "version": "0.2.6",
+  "version": "1.0.0",
   "description": "Criptografía con typescript",
   "main": "lib/index.js",
   "types": "lib",
@@ -8,7 +8,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "build":"tsc -p ."
+    "build": "tsc -p ."
   },
   "repository": {
     "type": "git",
