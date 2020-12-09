@@ -21,10 +21,8 @@
   },
   "homepage": "https://github.com/lbricenoyts/cripto#readme",
   "devDependencies": {
-    "typescript": "^4.1.2"
-  },
-  "keywords": [],
-  "dependencies": {
+    "typescript": "^4.1.2",
     "@types/node": "^14.14.11"
-  }
+  },
+  "keywords": []
 }
