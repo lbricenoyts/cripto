@@ -1,6 +1,6 @@
 {
   "name": "cripto",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Criptografía con typescript",
   "main": "lib/index.js",
   "types": "lib",
