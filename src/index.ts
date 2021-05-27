@@ -106,7 +106,7 @@ const toB64 = function (string: string): string {
     if (window) {
         return window.btoa(string)
     } else {
-        return Buffer.from(string).toString('base64')
+        return (Buffer && Buffer.from(string).toString('base64')) || ''
     }
 };
 
@@ -132,7 +132,7 @@ const B642a = function (string: string): string {
     if (window) {
         return window.atob(string)
     } else {
-        return Buffer.from(string, 'base64').toString('ascii')
+        return (Buffer && Buffer.from(string, 'base64').toString('ascii')) || ''
     }
 };
 
